@@ -1,0 +1,15 @@
+
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+langchain-text-splitters
+yfinance
+faiss-cpu
+streamlit
+python-dotenv
+pandas
+numpy
+langchain-huggingface
+sentence-transformers
